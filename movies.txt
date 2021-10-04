@@ -2,6 +2,12 @@ Harry Potter
 John Wick
 Airplane!
 
+<<<<<<< HEAD
 Lord of the Rings: Fellowship of the Rings
 Lord of the Rings: The Two Towers
 Lord of the Rings: Return of the King
+=======
+Avengers
+Star Wars
+Pulp Fiction
+>>>>>>> shunsuke_branch_1
